@@ -1,1 +1,1 @@
-print ()
+print ('my first program')
